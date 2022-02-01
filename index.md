@@ -9,6 +9,6 @@ Discord: b-randon#0282 aka Brandon R
 <img src="labs/lab-01/Images/redb-picture.jpg" width="300" height="300">    
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
-[Lab 2](labs/lab-02/report.md)
-[Lab 3](labs/lab-03/report.md)
+[Lab 1](labs/lab-01/report.md)  
+[Lab 2](labs/lab-02/report.md)  
+[Lab 3](labs/lab-03/report.md)  
