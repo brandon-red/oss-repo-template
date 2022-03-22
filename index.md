@@ -15,3 +15,4 @@ Discord: b-randon#0282 aka Brandon R
 [Lab 4](labs/lab-04/report.md)  
 [Lab 5](labs/lab-05/report.md)  
 [Lab 6](labs/lab-06/report.md)
+[Lab 7](labs/lab-07/report.md)
