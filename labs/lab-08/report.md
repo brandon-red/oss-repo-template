@@ -34,3 +34,8 @@ After following along with the steps, the following image is the resulting scree
 ![Hello World](Images/example03_working.jpg)
 
 ### Example 04
+
+Kept having errors with MongoDB and was unable to get the app running.
+
+*Error recieved:*  
+![MongoDB Error](Images/Mongoerrorex4.jpg)
