@@ -17,3 +17,4 @@ Discord: b-randon#0282 aka Brandon R
 [Lab 6](labs/lab-06/report.md)  
 [Lab 7](labs/lab-07/report.md)  
 [Lab 8](labs/lab-08/report.md)  
+[Lab 10](labs/lab-10/report.md)
